@@ -14,7 +14,7 @@ import random
 import math
 from copy import deepcopy
 
-#Define coordinates and draw plane size
+#Coordenadas & Plano
 ###########################################################################
 
 turtle.setup(width=500,height=500)
